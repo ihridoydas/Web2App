@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CCN APP</string>
+    <string name="exit">Are you Sure?</string>
+    <string name="exit_name">Exit</string>
+
+    <string name="rate_dialog_title">Rate this app </string>
+    <string name="rate_dialog_message">If you enjoyed this app,would you mind taking a moment to rate it? It wont take more than a minute. Thanks for your support!</string>
+    <string name="rate_dialog_ok">RATE IT NOW</string>
+    <string name="rate_dialog_cancel">REMIND ME LATER</string>
+    <string name="rate_dialog_no">NO,THANKS</string>
+</resources>
